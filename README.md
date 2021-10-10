@@ -9,7 +9,7 @@ Download/clone files and run
 
 ```bash
 >> docker build -t initial-d .
->> docker run -it --rm -p 3954:80
+>> docker run -it --rm -p 3954:80 initial-d
 ```
 
 Visit https://localhost:3954
