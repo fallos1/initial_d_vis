@@ -13,7 +13,7 @@
   height: 4.63vw;
   /* width: 35vw;
   height: 9.26vw; */
-  background-image: url("../fonts/sentiment_gauge.svg");
+  background-image: url("sentiment_gauge.svg");
   background-size: cover;
   display: inline-block;
 }
