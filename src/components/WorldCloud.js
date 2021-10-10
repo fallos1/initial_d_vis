@@ -5,7 +5,7 @@ import "./Gauge.css";
 const WorldCloud = (props) => {
   const [textMarginWidth, setTextMarginWidth] = useState(0);
   const selectedCar = props.selectedCar.toLowerCase().includes("stage")
-    ? "ae86"
+    ? "AE86"
     : props.selectedCar;
   const svgfile = `images/${selectedCar}_word_cloud.svg`;
   //const svgfile = `images/gt-r_word_cloud.svg`;
