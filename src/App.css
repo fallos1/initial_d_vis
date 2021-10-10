@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.characterImage {
+  border: 5px solid white;
+  background-color: white;
+}
+
+.characterImage:hover {
+  border: 5px solid red;
+}
+
+@font-face {
+  font-family: Microgramma;
+  src: url("./fonts/MicrogrammaMedium.otf");
+}
+
+body {
+  font-family: Microgramma;
+}
+
+a {
+  color: inherit;
+  font-weight: bolder;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+#methodology {
+  background-color: green;
+}

@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="754" height="238">
+<style>@font-face{font-family:'Microgramma D Extended';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Microgramma D Extended';font-weight:normal;font-style:normal;}</style>
+<text class="mask" transform="translate(30,168)" font-size="87" style="fill:rgb(71, 46, 124)">Takumi</text>
+<text class="mask" transform="translate(441,167)" font-size="86" style="fill:rgb(71, 47, 125)">race</text>
+<text class="mask" transform="translate(335,207)" font-size="58" style="fill:rgb(170, 220, 50)">Eight Six</text>
+<text class="mask" transform="translate(207,90)" font-size="58" style="fill:rgb(38, 130, 142)">battle</text>
+<text class="mask" transform="translate(145,214)" font-size="58" style="fill:rgb(40, 125, 142)">driver</text>
+<text class="mask" transform="translate(641,206)" font-size="58" style="fill:rgb(72, 32, 113)">will</text>
+<text class="mask" transform="translate(32,200)" font-size="46" style="fill:rgb(47, 107, 142)">take</text>
+<text class="mask" transform="translate(182,114)" font-size="36" style="fill:rgb(99, 203, 95)">Keisuke</text>
+<text class="mask" transform="translate(361,109)" font-size="29" style="fill:rgb(176, 221, 47)">Ryosuke</text>
+<text class="mask" transform="translate(502,223)" font-size="24" style="fill:rgb(119, 209, 83)">Project</text>
+<text class="mask" transform="translate(306,222)" font-size="24" style="fill:rgb(46, 111, 142)">racer</text>
+<text class="mask" transform="translate(375,147)" font-size="24" style="fill:rgb(61, 78, 138)">Shinji</text>
+<text class="mask" transform="translate(664,151)" font-size="24" style="fill:rgb(70, 50, 126)">new</text>
+<text class="mask" transform="translate(604,220)" font-size="24" style="fill:rgb(72, 36, 117)">one</text>
+<text class="mask" transform="translate(94,97)" font-size="24" style="fill:rgb(64, 189, 114)">next</text>
+<text class="mask" transform="translate(424,223)" font-size="22" style="fill:rgb(65, 66, 135)">match</text>
+<text class="mask" transform="translate(168,228)" font-size="21" style="fill:rgb(239, 229, 28)">Meanwhile</text>
+<text class="mask" transform="translate(655,219)" font-size="19" style="fill:rgb(31, 152, 139)">victory</text>
+<text class="mask" transform="translate(39,170) rotate(-90)" font-size="19" style="fill:rgb(41, 175, 127)">begin</text>
+<text class="mask" transform="translate(508,118)" font-size="19" style="fill:rgb(70, 50, 126)">Wataru</text>
+<text class="mask" transform="translate(394,87)" font-size="19" style="fill:rgb(31, 152, 139)">Iketani</text>
+<text class="mask" transform="translate(57,90)" font-size="19" style="fill:rgb(41, 122, 142)">car</text>
+<text class="mask" transform="translate(97,115)" font-size="19" style="fill:rgb(110, 206, 88)">start</text>
+<text class="mask" transform="translate(299,46)" font-size="19" style="fill:rgb(202, 225, 31)">two</text>
+<text class="mask" transform="translate(244,177)" font-size="14" style="fill:rgb(66, 64, 134)">opponent</text>
+<text class="mask" transform="translate(147,180)" font-size="14" style="fill:rgb(71, 42, 122)">end</text>
+<text class="mask" transform="translate(609,230)" font-size="14" style="fill:rgb(34, 140, 141)">continue</text>
+<text class="mask" transform="translate(416,119)" font-size="14" style="fill:rgb(152, 216, 62)">challenge</text>
+<text class="mask" transform="translate(365,157)" font-size="14" style="fill:rgb(43, 116, 142)">course</text>
+<text class="mask" transform="translate(87,213)" font-size="14" style="fill:rgb(58, 83, 139)">downhill</text>
+<text class="mask" transform="translate(590,120)" font-size="14" style="fill:rgb(39, 127, 142)">Team</text>
+<text class="mask" transform="translate(173,103) rotate(-90)" font-size="14" style="fill:rgb(34, 168, 132)">Itsuki</text>
+<text class="mask" transform="translate(230,56)" font-size="14" style="fill:rgb(101, 203, 94)">Bunta</text>
+<text class="mask" transform="translate(392,65)" font-size="14" style="fill:rgb(33, 144, 141)">wheel</text>
+<text class="mask" transform="translate(660,167)" font-size="14" style="fill:rgb(213, 226, 26)">way</text>
+<text class="mask" transform="translate(53,171) rotate(-90)" font-size="14" style="fill:rgb(71, 14, 97)">skill</text>
+<text class="mask" transform="translate(376,229)" font-size="14" style="fill:rgb(71, 13, 96)">racing</text>
+<text class="mask" transform="translate(353,51)" font-size="14" style="fill:rgb(92, 200, 99)">Akina</text>
+<text class="mask" transform="translate(596,194)" font-size="14" style="fill:rgb(54, 93, 141)">might</text>
+<text class="mask" transform="translate(33,211)" font-size="14" style="fill:rgb(80, 196, 106)">behind</text>
+<text class="mask" transform="translate(89,166) rotate(-90)" font-size="14" style="fill:rgb(42, 119, 142)">driving</text>
+<text class="mask" transform="translate(177,77)" font-size="14" style="fill:rgb(61, 188, 116)">got</text>
+<text class="mask" transform="translate(389,174)" font-size="14" style="fill:rgb(74, 193, 109)">face</text>
+<text class="mask" transform="translate(54,100)" font-size="14" style="fill:rgb(65, 66, 135)">true</text>
+<text class="mask" transform="translate(360,124)" font-size="14" style="fill:rgb(34, 167, 133)">intense</text>
+<text class="mask" transform="translate(304,231)" font-size="13" style="fill:rgb(208, 225, 28)">RedSuns</text>
+<text class="mask" transform="translate(731,208) rotate(-90)" font-size="13" style="fill:rgb(63, 71, 136)">Natsuki</text>
+<text class="mask" transform="translate(651,133)" font-size="13" style="fill:rgb(176, 221, 47)">Mako</text>
+<text class="mask" transform="translate(430,231)" font-size="12" style="fill:rgb(30, 157, 137)">another</text>
+<text class="mask" transform="translate(18,194) rotate(-90)" font-size="12" style="fill:rgb(61, 77, 138)">Kyoichi</text>
+<text class="mask" transform="translate(461,158)" font-size="12" style="fill:rgb(31, 161, 135)">Evo</text>
+<text class="mask" transform="translate(249,122)" font-size="11" style="fill:rgb(63, 72, 137)">difference</text>
+<text class="mask" transform="translate(434,196)" font-size="11" style="fill:rgb(31, 150, 139)">find</text>
+<text class="mask" transform="translate(485,230)" font-size="10" style="fill:rgb(96, 202, 96)">Cappuccino</text>
+<text class="mask" transform="translate(170,121)" font-size="10" style="fill:rgb(60, 79, 138)">School</text>
+<text class="mask" transform="translate(568,230)" font-size="10" style="fill:rgb(49, 181, 123)">never</text>
+<text class="mask" transform="translate(589,174)" font-size="8" style="fill:rgb(31, 162, 135)">legendary</text>
+<text class="mask" transform="translate(321,185) rotate(-90)" font-size="8" style="fill:rgb(66, 64, 134)">SpeedStars</text>
+<text class="mask" transform="translate(214,125)" font-size="8" style="fill:rgb(68, 2, 86)">Takeshi</text>
+<text class="mask" transform="translate(269,164)" font-size="8" style="fill:rgb(49, 181, 123)">head</text>
+<text class="mask" transform="translate(688,225)" font-size="8" style="fill:rgb(90, 200, 100)">seem</text>
+<text class="mask" transform="translate(552,146)" font-size="8" style="fill:rgb(44, 115, 142)">toward</text>
+<text class="mask" transform="translate(485,118)" font-size="8" style="fill:rgb(244, 230, 30)">girl</text>
+<text class="mask" transform="translate(225,135)" font-size="8" style="fill:rgb(229, 228, 25)">uphill</text>
+<text class="mask" transform="translate(503,107) rotate(-90)" font-size="8" style="fill:rgb(56, 185, 119)">still</text>
+<text class="mask" transform="translate(453,166)" font-size="8" style="fill:rgb(90, 200, 100)">soon</text>
+<text class="mask" transform="translate(504,201) rotate(-90)" font-size="8" style="fill:rgb(70, 8, 92)">defeat</text>
+<text class="mask" transform="translate(73,166) rotate(-90)" font-size="8" style="fill:rgb(103, 204, 92)">coming</text>
+<text class="mask" transform="translate(691,160)" font-size="8" style="fill:rgb(32, 164, 134)">leader</text>
+<text class="mask" transform="translate(525,181)" font-size="8" style="fill:rgb(52, 96, 141)">rival</text>
+<text class="mask" transform="translate(104,121)" font-size="8" style="fill:rgb(181, 222, 43)">reputation</text>
+<text class="mask" transform="translate(214,151)" font-size="8" style="fill:rgb(99, 203, 95)">Kyoko</text>
+<text class="mask" transform="translate(269,44)" font-size="8" style="fill:rgb(71, 44, 122)">keep</text>
+<text class="mask" transform="translate(602,202)" font-size="8" style="fill:rgb(38, 130, 142)">Impreza</text>
+<text class="mask" transform="translate(344,198)" font-size="8" style="fill:rgb(31, 152, 139)">notice</text>
+<text class="mask" transform="translate(309,120)" font-size="8" style="fill:rgb(70, 11, 94)">stage</text>
+<text class="mask" transform="translate(330,180) rotate(-90)" font-size="8" style="fill:rgb(49, 102, 142)">Kanagawa</text>
+<text class="mask" transform="translate(338,102)" font-size="8" style="fill:rgb(139, 214, 70)">Hojo</text>
+<text class="mask" transform="translate(437,173)" font-size="8" style="fill:rgb(34, 141, 141)">even</text>
+<text class="mask" transform="translate(153,232)" font-size="6" style="fill:rgb(229, 228, 25)">Purple Shadow</text>
+<text class="mask" transform="translate(475,169)" font-size="6" style="fill:rgb(44, 113, 142)">first</text>
+<text class="mask" transform="translate(367,163)" font-size="6" style="fill:rgb(78, 195, 107)">hand</text>
+<text class="mask" transform="translate(138,226)" font-size="6" style="fill:rgb(57, 85, 140)">look</text>
+<text class="mask" transform="translate(278,183)" font-size="6" style="fill:rgb(49, 103, 142)">believe</text>
+<text class="mask" transform="translate(192,84)" font-size="6" style="fill:rgb(119, 209, 83)">final</text>
+<text class="mask" transform="translate(417,123)" font-size="6" style="fill:rgb(44, 114, 142)">treacherous</text>
+<text class="mask" transform="translate(226,232)" font-size="6" style="fill:rgb(155, 217, 60)">Shingo</text>
+<text class="mask" transform="translate(134,218)" font-size="6" style="fill:rgb(72, 40, 120)">arrives</text>
+<text class="mask" transform="translate(94,173)" font-size="6" style="fill:rgb(122, 209, 81)">dangerous</text>
+<text class="mask" transform="translate(111,155)" font-size="6" style="fill:rgb(31, 158, 137)">accept</text>
+<text class="mask" transform="translate(392,69)" font-size="6" style="fill:rgb(55, 91, 141)">Sayuki</text>
+<text class="mask" transform="translate(292,51)" font-size="6" style="fill:rgb(165, 219, 54)">ability</text>
+<text class="mask" transform="translate(713,227)" font-size="6" style="fill:rgb(60, 80, 139)">win</text>
+<text class="mask" transform="translate(158,102) rotate(-90)" font-size="6" style="fill:rgb(176, 221, 47)">toughest</text>
+<text class="mask" transform="translate(504,158)" font-size="6" style="fill:rgb(197, 224, 33)">know</text>
+<text class="mask" transform="translate(672,173)" font-size="6" style="fill:rgb(58, 186, 118)">heart</text>
+<text class="mask" transform="translate(17,201)" font-size="6" style="fill:rgb(70, 192, 111)">yet</text>
+<text class="mask" transform="translate(167,166) rotate(-90)" font-size="6" style="fill:rgb(38, 130, 142)">rain</text>
+<text class="mask" transform="translate(422,68)" font-size="6" style="fill:rgb(32, 146, 140)">power</text>
+<text class="mask" transform="translate(252,232)" font-size="6" style="fill:rgb(132, 212, 75)">Emperor</text>
+<text class="mask" transform="translate(401,163)" font-size="6" style="fill:rgb(32, 146, 140)">advantage</text>
+<text class="mask" transform="translate(184,176)" font-size="6" style="fill:rgb(64, 189, 114)">Kazumi</text>
+<text class="mask" transform="translate(271,146)" font-size="6" style="fill:rgb(44, 114, 142)">taking</text>
+<text class="mask" transform="translate(636,173)" font-size="6" style="fill:rgb(205, 225, 29)">mountain</text>
+<text class="mask" transform="translate(549,231)" font-size="6" style="fill:rgb(231, 228, 25)">pass</text>
+<text class="mask" transform="translate(348,127) rotate(-90)" font-size="6" style="fill:rgb(48, 106, 142)">test</text>
+<text class="mask" transform="translate(158,203)" font-size="6" style="fill:rgb(53, 183, 121)">last</text>
+<text class="mask" transform="translate(268,152)" font-size="6" style="fill:rgb(43, 117, 142)">question</text>
+<text class="mask" transform="translate(423,91)" font-size="6" style="fill:rgb(31, 162, 135)">turn</text>
+<text class="mask" transform="translate(228,179)" font-size="6" style="fill:rgb(41, 121, 142)">trap</text>
+<text class="mask" transform="translate(726,217)" font-size="6" style="fill:rgb(61, 78, 138)">pair</text>
+<text class="mask" transform="translate(190,183)" font-size="6" style="fill:rgb(90, 200, 100)">control</text>
+<text class="mask" transform="translate(655,151) rotate(-90)" font-size="6" style="fill:rgb(57, 85, 140)">climb</text>
+<text class="mask" transform="translate(374,55)" font-size="6" style="fill:rgb(32, 164, 134)">revealed</text>
+<text class="mask" transform="translate(504,122)" font-size="6" style="fill:rgb(71, 42, 122)">conclusion</text>
+<text class="mask" transform="translate(71,215)" font-size="6" style="fill:rgb(44, 115, 142)">lead</text>
+<text class="mask" transform="translate(198,213) rotate(-90)" font-size="6" style="fill:rgb(34, 139, 141)">event</text>
+<text class="mask" transform="translate(611,154)" font-size="6" style="fill:rgb(31, 150, 139)">finish line</text>
+<text class="mask" transform="translate(35,104)" font-size="6" style="fill:rgb(71, 17, 100)">Northern Saitama</text>
+<text class="mask" transform="translate(538,123)" font-size="6" style="fill:rgb(112, 207, 87)">Saitama Alliance</text>
+<text class="mask" transform="translate(86,217)" font-size="6" style="fill:rgb(160, 218, 57)">abilities behind</text>
+<text class="mask" transform="translate(368,127)" font-size="4" style="fill:rgb(70, 7, 90)">Project expeditions</text>
+<text class="mask" transform="translate(575,172)" font-size="4" style="fill:rgb(44, 113, 142)">join</text>
+<text class="mask" transform="translate(478,92) rotate(-90)" font-size="4" style="fill:rgb(34, 139, 141)">date</text>
+<text class="mask" transform="translate(488,174)" font-size="4" style="fill:rgb(71, 16, 99)">set</text>
+<text class="mask" transform="translate(44,175)" font-size="4" style="fill:rgb(37, 171, 130)">decision</text>
+<text class="mask" transform="translate(655,135)" font-size="4" style="fill:rgb(236, 229, 27)">appears</text>
+<text class="mask" transform="translate(656,85)" font-size="4" style="fill:rgb(82, 197, 105)">everyone</text>
+<text class="mask" transform="translate(112,139)" font-size="4" style="fill:rgb(72, 40, 120)">ready</text>
+<text class="mask" transform="translate(6,206)" font-size="4" style="fill:rgb(57, 85, 140)">every</text>
+<text class="mask" transform="translate(669,153)" font-size="4" style="fill:rgb(72, 32, 113)">reason</text>
+<text class="mask" transform="translate(610,178)" font-size="4" style="fill:rgb(236, 229, 27)">game</text>
+<text class="mask" transform="translate(111,81)" font-size="4" style="fill:rgb(32, 163, 134)">decide</text>
+<text class="mask" transform="translate(231,59)" font-size="4" style="fill:rgb(53, 183, 121)">speed</text>
+<text class="mask" transform="translate(223,209)" font-size="4" style="fill:rgb(55, 91, 141)">line</text>
+<text class="mask" transform="translate(41,74)" font-size="4" style="fill:rgb(41, 123, 142)">NightKid</text>
+<text class="mask" transform="translate(594,233)" font-size="4" style="fill:rgb(184, 222, 41)">different</text>
+<text class="mask" transform="translate(678,229)" font-size="4" style="fill:rgb(86, 198, 103)">upcoming</text>
+<text class="mask" transform="translate(186,63)" font-size="4" style="fill:rgb(58, 83, 139)">Usui</text>
+<text class="mask" transform="translate(181,144)" font-size="4" style="fill:rgb(55, 184, 120)">creating</text>
+<text class="mask" transform="translate(126,101)" font-size="4" style="fill:rgb(165, 219, 54)">curve</text>
+<text class="mask" transform="translate(440,90)" font-size="4" style="fill:rgb(58, 186, 118)">sight</text>
+<text class="mask" transform="translate(36,87)" font-size="4" style="fill:rgb(124, 210, 80)">back</text>
+<text class="mask" transform="translate(316,90) rotate(-90)" font-size="4" style="fill:rgb(42, 176, 127)">miracle</text>
+<text class="mask" transform="translate(26,79)" font-size="4" style="fill:rgb(31, 148, 140)">actually</text>
+<text class="mask" transform="translate(362,57)" font-size="4" style="fill:rgb(184, 222, 41)">guy</text>
+<text class="mask" transform="translate(247,43)" font-size="4" style="fill:rgb(49, 102, 142)">growing</text>
+<text class="mask" transform="translate(259,60)" font-size="4" style="fill:rgb(31, 153, 138)">better</text>
+<text class="mask" transform="translate(427,71)" font-size="4" style="fill:rgb(30, 156, 137)">greatest</text>
+<text class="mask" transform="translate(313,51)" font-size="4" style="fill:rgb(50, 100, 142)">may</text>
+<text class="mask" transform="translate(325,50)" font-size="4" style="fill:rgb(223, 227, 24)">already</text>
+<text class="mask" transform="translate(301,56)" font-size="4" style="fill:rgb(139, 214, 70)">AE86</text>
+<text class="mask" transform="translate(339,93)" font-size="4" style="fill:rgb(223, 227, 24)">veteran</text>
+<text class="mask" transform="translate(341,37)" font-size="4" style="fill:rgb(216, 226, 25)">relationship</text>
+<text class="mask" transform="translate(724,222)" font-size="4" style="fill:rgb(152, 216, 62)">leading</text>
+<text class="mask" transform="translate(411,234)" font-size="4" style="fill:rgb(32, 164, 134)">confidence</text>
+<text class="mask" transform="translate(479,188)" font-size="4" style="fill:rgb(42, 119, 142)">tuned</text>
+<text class="mask" transform="translate(287,218)" font-size="4" style="fill:rgb(63, 188, 115)">trouble</text>
+<text class="mask" transform="translate(346,176)" font-size="4" style="fill:rgb(72, 26, 108)">upgrade</text>
+<text class="mask" transform="translate(661,158)" font-size="4" style="fill:rgb(70, 7, 90)">suffer</text>
+<text class="mask" transform="translate(368,232)" font-size="4" style="fill:rgb(52, 97, 141)">scene</text>
+<text class="mask" transform="translate(653,176)" font-size="4" style="fill:rgb(40, 124, 142)">endurance</text>
+<text class="mask" transform="translate(329,71)" font-size="4" style="fill:rgb(70, 10, 93)">newly</text>
+<text class="mask" transform="translate(306,206)" font-size="4" style="fill:rgb(42, 119, 142)">technique</text>
+<text class="mask" transform="translate(293,164) rotate(-90)" font-size="4" style="fill:rgb(47, 180, 124)">spell</text>
+<text class="mask" transform="translate(222,182)" font-size="4" style="fill:rgb(192, 223, 37)">pressure</text>
+<text class="mask" transform="translate(133,74)" font-size="4" style="fill:rgb(47, 108, 142)">prepare</text>
+<text class="mask" transform="translate(23,71)" font-size="4" style="fill:rgb(60, 79, 138)">advice</text>
+<text class="mask" transform="translate(553,149)" font-size="4" style="fill:rgb(32, 163, 134)">professional</text>
+<text class="mask" transform="translate(149,184)" font-size="4" style="fill:rgb(244, 230, 30)">shocked</text>
+<text class="mask" transform="translate(691,136)" font-size="4" style="fill:rgb(38, 130, 142)">encounter</text>
+<text class="mask" transform="translate(228,157)" font-size="4" style="fill:rgb(66, 64, 134)">mind</text>
+<text class="mask" transform="translate(269,167)" font-size="4" style="fill:rgb(70, 11, 94)">understand</text>
+<text class="mask" transform="translate(641,233)" font-size="4" style="fill:rgb(49, 103, 142)">unexpected</text>
+<text class="mask" transform="translate(389,90)" font-size="4" style="fill:rgb(42, 118, 142)">Later</text>
+<text class="mask" transform="translate(301,59)" font-size="4" style="fill:rgb(37, 133, 142)">plan</text>
+<text class="mask" transform="translate(410,56)" font-size="4" style="fill:rgb(31, 153, 138)">become</text>
+<text class="mask" transform="translate(73,107)" font-size="4" style="fill:rgb(62, 73, 137)">wait</text>
+<text class="mask" transform="translate(94,153) rotate(-90)" font-size="4" style="fill:rgb(44, 113, 142)">Omiya</text>
+<text class="mask" transform="translate(466,146)" font-size="4" style="fill:rgb(139, 214, 70)">Kubo</text>
+<text class="mask" transform="translate(618,234)" font-size="4" style="fill:rgb(31, 151, 139)">limits</text>
+<text class="mask" transform="translate(393,43)" font-size="4" style="fill:rgb(142, 214, 69)">come</text>
+<text class="mask" transform="translate(634,118)" font-size="4" style="fill:rgb(65, 68, 135)">show</text>
+<text class="mask" transform="translate(607,124)" font-size="4" style="fill:rgb(44, 177, 126)">allow</text>
+<text class="mask" transform="translate(199,124)" font-size="4" style="fill:rgb(72, 26, 108)">Zero</text>
+<text class="mask" transform="translate(430,75)" font-size="4" style="fill:rgb(70, 51, 127)">Ikeda</text>
+<text class="mask" transform="translate(184,148)" font-size="4" style="fill:rgb(59, 82, 139)">Theory</text>
+<text class="mask" transform="translate(447,176)" font-size="4" style="fill:rgb(108, 205, 90)">fastest</text>
+<text class="mask" transform="translate(175,67)" font-size="4" style="fill:rgb(39, 173, 129)">attack</text>
+<text class="mask" transform="translate(521,234)" font-size="4" style="fill:rgb(63, 71, 136)">inevitable</text>
+<text class="mask" transform="translate(284,231)" font-size="4" style="fill:rgb(68, 2, 86)">happen</text>
+<text class="mask" transform="translate(346,180)" font-size="4" style="fill:rgb(72, 193, 110)">street racing</text>
+<text class="mask" transform="translate(734,197) rotate(-90)" font-size="4" style="fill:rgb(132, 212, 75)">tofu shop</text>
+<text class="mask" transform="translate(295,93)" font-size="4" style="fill:rgb(36, 135, 142)">pouring rain</text>
+<text class="mask" transform="translate(504,140)" font-size="4" style="fill:rgb(248, 230, 33)">God Arm</text>
+<text class="mask" transform="translate(299,234)" font-size="4" style="fill:rgb(52, 182, 121)">Team Sidewinder</text>
+<text class="mask" transform="translate(456,234)" font-size="4" style="fill:rgb(66, 64, 134)">second round</text>
+<text class="mask" transform="translate(579,233)" font-size="4" style="fill:rgb(208, 225, 28)">High</text>
+<text class="mask" transform="translate(434,208)" font-size="4" style="fill:rgb(160, 218, 57)">Fujiwara</text>
+<text class="mask" transform="translate(67,130)" font-size="4" style="fill:rgb(38, 130, 142)">Eight</text>
+</svg>

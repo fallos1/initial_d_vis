@@ -1,0 +1,48 @@
+#popularityGauge {
+  width: 35vw;
+  height: 35vw;
+}
+
+#apperanceGauge {
+  width: 35vw;
+  height: 35vw;
+}
+
+#sentimentGauge {
+  width: 17.5vw;
+  height: 4.63vw;
+  /* width: 35vw;
+  height: 9.26vw; */
+  background-image: url("../fonts/sentiment_gauge.svg");
+  background-size: cover;
+  display: inline-block;
+}
+
+#carChord {
+  width: 40vw;
+  height: 40vw;
+}
+
+#carWordCloud {
+  width: 40vw;
+  height: 40vw;
+}
+
+#wordCloud {
+  width: 40vw;
+  height: 15vw;
+}
+
+.svgContainer {
+  width: 40vw;
+  height: 20vw;
+}
+
+@font-face {
+  font-family: EuroStyle;
+  src: url("../fonts/EuroStyle.ttf");
+}
+@font-face {
+  font-family: Microgramma;
+  src: url("../fonts/MicrogrammaMedium.otf");
+}
