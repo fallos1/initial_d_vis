@@ -1,8 +1,8 @@
 <h1>Initial D Visualisation</h1>
-This is a visualisation about the anime Initial D using D3.js and React. Works well on desktop in portrait and landscope orientation. Mobile support is a work in progress.
+This is a visualisation about the anime Initial D using D3.js and React. Works well on desktop in portrait and landscape orientation. Mobile support is a work in progress.
 
 <h2>Demo</h2>
-<a href = "https://initial-d-vis.herokuapp.com/">Click here for demo hosted on heroku. </a>
+<a href = "initialdvis-production.up.railway.app/">Click here for demo hosted on railway. </a>
 <h2> Build instructions (Docker)</h2>
 
 Download/clone files and run
