@@ -2,7 +2,7 @@
 This is a visualisation about the anime Initial D using D3.js and React. Works well on desktop in portrait and landscape orientation. Mobile support is a work in progress.
 
 <h2>Demo</h2>
-<a href = "initialdvis-production.up.railway.app/">Click here for demo hosted on railway. </a>
+<a href = "https://jolly-rock-0fcc2f610.1.azurestaticapps.net/">Click here for demo hosted on azure. </a>
 <h2> Build instructions (Docker)</h2>
 
 Download/clone files and run
